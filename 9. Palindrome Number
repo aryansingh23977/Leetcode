@@ -1,0 +1,16 @@
+bool isPalindrome(int x) {
+    long rev = 0;
+    int originalNum;
+    originalNum = x;
+    if(x<0){
+        return 0;
+    }
+    while(x!=0){
+        rev = rev * 10 + x % 10;
+        x = x / 10;
+    }
+    if(rev==originalNum){
+        return 1;
+    }
+    return 0;
+}
