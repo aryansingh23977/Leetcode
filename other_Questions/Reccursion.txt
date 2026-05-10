@@ -1,0 +1,51 @@
+20 Questions to master Recc! xD
+
+
+LEVEL 1: Absolute Basics (build intuition)
+
+Focus: base case + simple reduction
+
+Print numbers from 1 to N
+Print numbers from N to 1
+Sum of first N natural numbers
+Factorial of a number
+Sum of digits of a number
+
+
+LEVEL 2: Strengthening recursion flow
+
+Focus: breaking problems into smaller calls
+
+Reverse a number (without loop)
+Count number of digits
+Check if a number is palindrome
+Find GCD of two numbers (Euclid)
+Power function (xⁿ using recursion)
+
+
+LEVEL 3: Classic recursion patterns
+
+Focus: multiple recursive calls & tree recursion
+
+Fibonacci (recursive)
+Nth term of series: 1, 2, 3, 5, 8…
+Binary search using recursion
+Check if array is sorted
+Find maximum element in array
+
+
+LEVEL 4: Backtracking & decision recursion
+
+Focus: branching decisions
+
+Print all subsets of a string
+Print all permutations of a string
+Generate all binary strings of length N
+
+
+LEVEL 5: Advanced (this is where mastery begins)
+
+Focus: complex recursion trees + optimization thinking
+
+Tower of Hanoi
+N-Queens problem (basic version)
